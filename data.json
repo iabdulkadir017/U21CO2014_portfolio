@@ -1,0 +1,81 @@
+{
+  "name": "Ibrahim Abdulkadir",
+  "programme": "B.Eng. Computer Engineering",
+  "university": "Ahmadu Bello University, Zaria",
+  "currentLevel": "500 Level",
+  "universityPeriod": "2021-2026",
+  "entryType": "Direct Entry (DE)",
+  "careerFocus": "Network Engineer",
+  "primaryInterest": "Computer Systems and Networking",
+  "additionalInterest": "Artificial Intelligence and Computer Vision",
+  "shortBio": "Computer Engineering student at Ahmadu Bello University, Zaria, with an interest in computer systems, networking, and emerging technologies.",
+  "careerObjective": "To develop a career in Network Engineering, with a focus on designing, managing, and troubleshooting reliable network infrastructure while continuing to explore emerging technologies such as Artificial Intelligence.",
+  "education": [
+    {
+      "degree": "B.Eng. Computer Engineering",
+      "institution": "Ahmadu Bello University, Zaria",
+      "period": "2021-2026",
+      "level": "500 Level",
+      "note": "Direct Entry"
+    },
+    {
+      "degree": "IJMB Programme",
+      "institution": "Nuhu Bamalli Polytechnic, Zaria",
+      "period": "2020-2021",
+      "note": "Used as the qualification for Direct Entry admission into Ahmadu Bello University."
+    },
+    {
+      "degree": "Secondary Education",
+      "institution": "Ibn Salahuddeen Science School, Gwar-Gwaje, Zaria",
+      "period": "2014-2019",
+      "note": "NECO"
+    },
+    {
+      "degree": "Primary Education",
+      "institution": "Toddle-Toes Academy, Unguwan Kaya, Zaria",
+      "period": "2009-2013",
+      "note": "Primary Leaving Certificate"
+    }
+  ],
+  "skills": [
+    { "name": "HTML5", "percentage": 80 },
+    { "name": "CSS3", "percentage": 70 },
+    { "name": "Python", "percentage": 70 },
+    { "name": "Cisco Networking", "percentage": 70 },
+    { "name": "JavaScript", "percentage": 50 },
+    { "name": "Node.js", "percentage": 50 }
+  ],
+  "projects": [
+    {
+      "title": "Waste Detection Using TinyML",
+      "year": 2026,
+      "description": "An embedded AI system for detecting plastic, metal, and organic waste using computer vision and TinyML. The system uses an ESP32-CAM to capture waste images and performs classification on the edge device.",
+      "technologies": ["TinyML", "ESP32-CAM", "Computer Vision"]
+    },
+    {
+      "title": "Project details to be added",
+      "year": null,
+      "description": "Project details to be added.",
+      "technologies": []
+    },
+    {
+      "title": "Project details to be added",
+      "year": null,
+      "description": "Project details to be added.",
+      "technologies": []
+    }
+  ],
+  "hobbies": [
+    "Exploring Technology",
+    "Reading and Research"
+  ],
+  "interests": [
+    "Computer Networks",
+    "Artificial Intelligence"
+  ],
+  "contact": {
+    "email": "iabdulkadir017@gmail.com",
+    "phone": "08169277178",
+    "location": "Zaria, Nigeria"
+  }
+}
